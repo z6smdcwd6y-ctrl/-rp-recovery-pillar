@@ -1,24 +1,33 @@
-RP RECOVERY PILLAR — WEBSITE FILES
+RP RECOVERY PILLAR — UPDATED WEBSITE PACKAGE
 
-Files:
-- index.html: the website content and sections
-- styles.css: responsive platinum-and-midnight-black styling
+FILES
+- index.html: responsive website, enquiry form, illustrated staff placeholders, activity preview, services, and safety information.
+- styles.css: midnight-black/platinum styling and mobile layout.
+
+WORKING NOW
+- Responsive layout and mobile navigation.
+- Email link and enquiry form addressed to gigpillar@gmail.com. The form opens the visitor’s email app; it does not submit to a server or store information.
+- Service information and transparent fee/scope messaging.
+- Animated, clearly labelled sample activity feed (not real client activity or proof of recovery).
+- Illustrated staff placeholders. Replace with genuine approved staff portraits and names.
+- Facebook button links to the provided page: https://www.facebook.com/share/1JsdfRS7v8/ .
+- WhatsApp has been removed from the site as requested.
+
+NOT ACTIVE YET
+Real client accounts, admin dashboard, secure case records, server-connected contact submissions, and live chat require a secure backend, authentication, database, access controls, and privacy/security review. GitHub Pages alone cannot provide these securely. The portal section is a planned-feature notice, not a working login.
+
+TRUST
+Do not invent testimonials, recovery notifications, customer names, or recovered amounts. Publish genuine client stories only with consent and supporting evidence.
 
 BEFORE PUBLISHING
-1. Replace YOUR-VERIFIED-EMAIL@example.com in index.html with an email address you control.
-2. Add your real legal business name, jurisdiction, registration details, privacy notice, terms, and any required disclosures.
-3. Only add claims such as “13+ years” or “$809 million recovered” if you have records that substantiate them. Do not publish unsupported statistics, testimonials, licences, or guaranteed outcomes.
-4. Test all links and the contact email.
+1. Confirm the Facebook Page link opens the intended page.
+2. Replace illustrated staff placeholders with genuine staff photos and approved names/roles, or keep them explicitly labelled as illustrations.
+3. Add claims such as “$809 million recovered” or “13+ years of experience” only if reliable records substantiate them. These claims are not displayed as verified facts in this package.
+4. Confirm legal business identity, service scope, fees, privacy notice, terms, and required disclosures.
+5. Replace the demo feed with verified, consented case updates before calling it live.
+6. Preview and test on phone and desktop.
+7. Upload index.html, styles.css, and README.txt to the existing GitHub repository root and commit only when satisfied.
 
-FREE HOSTING OPTION: GITHUB PAGES
-1. Create/sign in to a GitHub account.
-2. Create a new public repository, e.g. rp-recovery-pillar-site.
-3. Upload index.html and styles.css to the repository root.
-4. Open Settings → Pages. Under Build and deployment, choose “Deploy from a branch”, select the main branch and root folder, then Save.
-5. GitHub will show the published URL after deployment. It may take a few minutes.
-Check GitHub Pages' current terms and availability for your account. A custom domain usually costs money.
+Keep GitHub Pages set to branch main and folder /(root).
 
-NOTES
-- The contact button opens the visitor’s email app using a mailto link; this does not store or send form submissions on the website.
-- Google Fonts is loaded from an external service. The site otherwise has no tracking or analytics code.
-- This template is informational and does not establish that the business is registered, licensed, or authorised to provide regulated services.
+Contact email: gigpillar@gmail.com
