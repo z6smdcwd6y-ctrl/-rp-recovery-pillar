@@ -31,3 +31,11 @@ BEFORE PUBLISHING
 Keep GitHub Pages set to branch main and folder /(root).
 
 Contact email: gigpillar@gmail.com
+
+
+RECENT WEBSITE CHANGES
+- Added company-provided headline figures for $809M+ and 13+ years; verify records supporting these claims before publication.
+- Added two illustrated AI support guide profiles. Names rotate every three hours. They are explicitly described as AI assistants, not human staff. Both Facebook contact links point to the supplied Facebook share URL.
+- Removed the DEMO label from the case-process animation; the feed describes process steps and does not claim to show live client payouts.
+- No WhatsApp links are included. Email contact remains gigpillar@gmail.com.
+- Customer accounts, secure admin dashboards, and real-time chat require a backend and are not implemented by static GitHub Pages files.
