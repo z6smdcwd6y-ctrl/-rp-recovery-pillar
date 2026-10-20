@@ -1,41 +1,7 @@
-RP RECOVERY PILLAR — UPDATED WEBSITE PACKAGE
+RP RECOVERY PILLAR — FULL WEBSITE PACKAGE
 
-FILES
-- index.html: responsive website, enquiry form, illustrated staff placeholders, activity preview, services, and safety information.
-- styles.css: midnight-black/platinum styling and mobile layout.
+Upload index.html, styles.css and the complete assets folder to the root of your GitHub Pages repository. Replace the existing index.html and styles.css and commit the changes.
 
-WORKING NOW
-- Responsive layout and mobile navigation.
-- Email link and enquiry form addressed to gigpillar@gmail.com. The form opens the visitor’s email app; it does not submit to a server or store information.
-- Service information and transparent fee/scope messaging.
-- Animated, clearly labelled sample activity feed (not real client activity or proof of recovery).
-- Illustrated staff placeholders. Replace with genuine approved staff portraits and names.
-- Facebook button links to the provided page: https://www.facebook.com/share/1JsdfRS7v8/ .
-- WhatsApp has been removed from the site as requested.
+Includes the full screenshot section order and supplied wording: hero, 13+ years and $809 million stats, six service cards, four team profiles, three testimonial cards with stars, recovery process, contact form, Facebook link and footer.
 
-NOT ACTIVE YET
-Real client accounts, admin dashboard, secure case records, server-connected contact submissions, and live chat require a secure backend, authentication, database, access controls, and privacy/security review. GitHub Pages alone cannot provide these securely. The portal section is a planned-feature notice, not a working login.
-
-TRUST
-Do not invent testimonials, recovery notifications, customer names, or recovered amounts. Publish genuine client stories only with consent and supporting evidence.
-
-BEFORE PUBLISHING
-1. Confirm the Facebook Page link opens the intended page.
-2. Replace illustrated staff placeholders with genuine staff photos and approved names/roles, or keep them explicitly labelled as illustrations.
-3. Add claims such as “$809 million recovered” or “13+ years of experience” only if reliable records substantiate them. These claims are not displayed as verified facts in this package.
-4. Confirm legal business identity, service scope, fees, privacy notice, terms, and required disclosures.
-5. Replace the demo feed with verified, consented case updates before calling it live.
-6. Preview and test on phone and desktop.
-7. Upload index.html, styles.css, and README.txt to the existing GitHub repository root and commit only when satisfied.
-
-Keep GitHub Pages set to branch main and folder /(root).
-
-Contact email: gigpillar@gmail.com
-
-
-RECENT WEBSITE CHANGES
-- Added company-provided headline figures for $809M+ and 13+ years; verify records supporting these claims before publication.
-- Added two illustrated AI support guide profiles. Names rotate every three hours. They are explicitly described as AI assistants, not human staff. Both Facebook contact links point to the supplied Facebook share URL.
-- Removed the DEMO label from the case-process animation; the feed describes process steps and does not claim to show live client payouts.
-- No WhatsApp links are included. Email contact remains gigpillar@gmail.com.
-- Customer accounts, secure admin dashboards, and real-time chat require a backend and are not implemented by static GitHub Pages files.
+Before public launch, ensure the recovery statistics, staff identities, and testimonials are genuine and supported. The contact form opens an email app to gigpillar@gmail.com; it does not save submissions to a server.
