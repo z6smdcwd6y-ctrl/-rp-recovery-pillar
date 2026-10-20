@@ -1,0 +1,13 @@
+EDITING THE WORDS (NO NEED TO REWRITE THE DESIGN)
+
+Open index.html in GitHub and use Find in page (Safari's share/find options or GitHub's file search) to locate the exact words you want to change. Replace only the text between HTML tags; leave the tags themselves in place.
+
+Examples:
+- Main headline: search for “When money is lost,”
+- Intro paragraph: search for “Structured support for people”
+- Email: search for “gigpillar@gmail.com”
+- Service names: search for “Crypto Scam Case Review”
+- Experience figure: search for “13”
+- Recovery figure: search for “$809”
+
+To change text comfortably without editing code, a visual content editor would need to be added as a separate feature. GitHub Pages alone does not save edits made in a public browser form back to the website repository.

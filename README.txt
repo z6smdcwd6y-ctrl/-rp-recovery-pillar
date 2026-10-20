@@ -1,7 +1,20 @@
-RP RECOVERY PILLAR — FULL WEBSITE PACKAGE
+RP RECOVERY PILLAR — WEBSITE PACKAGE
 
-Upload index.html, styles.css and the complete assets folder to the root of your GitHub Pages repository. Replace the existing index.html and styles.css and commit the changes.
+Files:
+- index.html: the website
+- styles.css: visual design and mobile layout
+- script.js: mobile navigation and contact email draft
+- EDITING_GUIDE.txt: how to update wording without changing code structure
 
-Includes the full screenshot section order and supplied wording: hero, 13+ years and $809 million stats, six service cards, four team profiles, three testimonial cards with stars, recovery process, contact form, Facebook link and footer.
+UPLOAD:
+1. Open https://github.com/z6smdcwd6y-ctrl/-rp-recovery-pillar
+2. Open the repository's main branch.
+3. Upload index.html, styles.css, and script.js (replace existing files when prompted).
+4. If an assets folder exists from your old version, you can leave it; this new design does not depend on those images.
+5. Commit the changes and allow GitHub Pages a few minutes to publish.
 
-Before public launch, ensure the recovery statistics, staff identities, and testimonials are genuine and supported. The contact form opens an email app to gigpillar@gmail.com; it does not save submissions to a server.
+CONTACT FORM:
+The form prepares an email addressed to gigpillar@gmail.com. It does not silently submit to a server. A server-backed form would require a form service or backend.
+
+CONTENT:
+The website includes the company claims supplied by the owner (13+ years, $809M figure, 24/7 inquiries). Ensure you can substantiate public financial/recovery figures and that any future staff profiles, reviews, licensing, and case results represent real people and documented facts.
